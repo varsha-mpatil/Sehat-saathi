@@ -1,0 +1,16 @@
+{
+  "name": "Sehat Saathi",
+  "description": "Sehat Saathi is an AI-powered healthcare ecosystem bridging the rural medical gap in India with intelligent symptom checking, bilingual chatbot assistance, pharmacy search, and secure health records.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Telemedicine",
+    "Offline Health Records",
+    "AI Symptom Checker",
+    "Medicine Availability Tracking",
+    "Multilingual Support"
+  ]
+}
